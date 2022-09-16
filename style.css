@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+.postHead {
+    display: flex;
+    padding: 10px;
+}
+.post {
+    width: 500px;
+    background-color: white;
+    margin: auto;
+}
+.logo i {
+    font-size: 39px;
+}
+.menu {
+    margin-left: auto;
+}
+.menu i {
+    font-size: 35px;
+}
+.title {
+    line-height: 2px;
+    padding-left: 7px;
+    font-family: 'Roboto', sans-serif;
+}
+.title h1 {
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.postOpt {
+    display: flex;
+    padding: 10px;
+}
+.bookmark {
+    margin-left: auto;
+}
+.postInfo {
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.postOpt i {
+    font-size: 35px;
+}
